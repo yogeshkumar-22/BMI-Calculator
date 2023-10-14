@@ -26,15 +26,12 @@ h1 {
 }
 
 .calc {
-    width: 120px;
+    width: 80px;
     width: 31%;
     border-radius: 10px;
     text-align: center;
 }
 
-.pp {
-    padding-top: 90px;
-}
 
 input[type="number"] {
     width: 20%;
@@ -46,14 +43,13 @@ input[type="number"] {
 }
 
 header {
-    background: antiquewhite;
+    background: rgb(95, 224, 247);
     margin: 0px;
     padding: 1px;
 }
 
 .res {
     text-align: center;
-    padding-top: 60px;
     font-size: 35px;
     font-weight: 700;
 }
@@ -64,9 +60,9 @@ footer {
     position: absolute;
     justify-content: center;
     padding: 5px;
-    background-color:antiquewhite;
+    background-color:rgb(95, 224, 247);
     color: black;
 }
 #my{
-    zoom: 60%;
+    zoom: 50%;
 }
